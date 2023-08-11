@@ -1,43 +1,57 @@
 ---
 // @ts-ignore
 import { Icon } from "astro-icon";
+import battery from "../assets/battery.png";
+import { Picture } from "@astrojs/image/components";
+import screen from "../assets/screen.jpg";
+import keyboard from "../assets/keyboard.png";
+import fix from "../assets/fix.png";
+import core from "../assets/core.webp";
+import wifi from "../assets/WiFi-Emblem.png";
 
 const features = [
   {
     title: "Batería de larga duración",
     description:
-      "Build your site using React, Svelte, Vue, Preact, web components, or just plain ol' HTML + JavaScript.",
+      "Su batería de 6 celdas te permitirá disfrutar de hasta 6 horas de uso continuo sin necesidad de estar conectado a la corriente eléctrica. Además, cuenta con un sistema de carga rápida que te permitirá cargarla en menos tiempo.",
     icon: "bx:bxs-briefcase",
+    image: battery,
   },
   {
     title: "Pantalla de 15.6 pulgadas",
     description:
-      "Astro renders your entire page to static HTML, removing all JavaScript from your final build by default.",
+      "La pantalla de 15.6 pulgadas es ideal para ver películas, series, jugar videojuegos, trabajar, estudiar, etc. Además, cuenta con una resolución HD de 1366 x 768 píxeles que te permitirá disfrutar de una excelente calidad de imagen.",
     icon: "bx:bxs-window-alt",
+    image: screen,
   },
   {
-    title: "Teclado numérico",
+    title: "Teclado",
     description:
-      "Need some JS? Astro can automatically hydrate interactive components when they become visible on the page.  ",
+      "Su teclado compacto es fundamental para que puedas escribir con comodidad y rapidez. Además, de su diseño ergonómico que permite una mejor postura de las manos y muñecas.",
     icon: "bx:bxs-data",
+    image: keyboard,
+
   },
   {
-    title: "Broad Integration",
+    title: "Facil de reparar",
     description:
-      "Astro supports TypeScript, Scoped CSS, CSS Modules, Sass, Tailwind, Markdown, MDX, and any other npm packages.",
+      "Este modelo cuenta con un diseño que permite un fácil acceso a los componentes internos, lo que facilita su reparación.",
     icon: "bx:bxs-bot",
+    image: fix,
   },
   {
-    title: "SEO Enabled",
+    title: "Procesador Intel Core i3",
     description:
-      "Automatic sitemaps, RSS feeds, pagination and collections take the pain out of SEO and syndication. It just works!",
+      "Este procesador es ideal para realizar tareas básicas como navegar por Internet, ver películas, escuchar música, editar documentos, etc.",
     icon: "bx:bxs-file-find",
+    image: core,
   },
   {
-    title: "Community",
+    title: "Conectividad",
     description:
-      "Astro is an open source project powered by hundreds of contributors making thousands of individual contributions.",
+      "La conectividad es una de las características más importantes de una computadora portátil, ya que es lo que nos permite conectarnos a Internet y a otros dispositivos. ",
     icon: "bx:bxs-user",
+    image: wifi,
   },
 ];
 ---
@@ -47,7 +61,8 @@ const features = [
     Todo lo que necesitas en una computadora portátil.
   </h2>
   <p class="text-lg mt-4 text-slate-600">
-    La unidad mas vendida de la marca, con un diseño elegante y moderno, Toshiba presenta su modelo Satellite C55-A5105.
+    La unidad mas vendida de la marca, con un diseño elegante y moderno, Toshiba
+    presenta su modelo Satellite C55-A5105.
   </p>
 </div>
 
@@ -59,10 +74,24 @@ const features = [
           <Icon class="text-white" name={item.icon} />
         </div>
         <div>
-          <h3 class="font-semibold text-lg">{item.title}</h3>{" "}
-          <p class="text-slate-500 mt-2 leading-relaxed">{item.description}</p>
+          <details>
+            <summary class="font-semibold text-lg cursor-pointer">
+              {item.title}
+            </summary>
+            <p class="text-slate-500 mt-2 leading-relaxed">
+              {item.description}
+            </p>
+            <Picture
+              class="mt-4"
+              alt="item.title"
+              src={item.image}
+              widths={[300]}
+              loading="lazy"
+              format="avif"
+            />
+          </details>
         </div>
       </div>
-    ))
-  }
+      ))
+    }
 </div>
