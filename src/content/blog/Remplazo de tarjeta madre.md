@@ -6,7 +6,7 @@ image: {
     src: "https://cdn.shopify.com/s/files/1/1638/9267/products/RU30394-1_1024x1024.jpg?v=1520712301",
     alt: "Tarjeta Madre"
 }
-publishDate: "2023-08-11 14:08"
+publishDate: "2023-08-11 14:58"
 category: "Soporte"
 author: "CTP Aserrí"
 tags: [tarjetamadre, soporte]
