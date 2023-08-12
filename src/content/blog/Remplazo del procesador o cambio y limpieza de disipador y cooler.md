@@ -3,7 +3,7 @@ draft: false
 title: "Remplazo del procesador o cambio y limpieza de disipador y cooler"
 snippet: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
 image: {
-    src: "https://http2.mlstatic.com/D_NQ_NP_830839-MLM29628037442_032019-F.jpg",
+    src: "https://ae01.alicdn.com/kf/S5c99f54cd63741249224fd74158db8c8a/Disipador-de-calor-Original-para-Ordenador-port-til-TOSHIBA-ventilador-de-refrigeraci-n-para-cpu-L600.jpg",
     alt: "Procesador, Disipador y Cooler"
 }
 publishDate: "2023-08-11 14:05"

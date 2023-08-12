@@ -3,7 +3,7 @@ draft: false
 title: "Remplazo de batería"
 snippet: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
 image: {
-    src: "https://th.bing.com/th/id/OIP.zs6IOyNbONJ3KllMXs6wPAHaHa?pid=ImgDet&rs=1",
+    src: "https://http2.mlstatic.com/bateria-laptop-3534-toshiba-satellite-a205-D_NQ_NP_847693-MLM26917866135_022018-F.jpg",
     alt: "Batería"
 }
 publishDate: "2023-08-11 11:56"

@@ -3,7 +3,7 @@ draft: false
 title: "Remplazo de tarjeta madre"
 snippet: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
 image: {
-    src: "https://cdn.shopify.com/s/files/1/1638/9267/products/V000225210-3_1024x1024.jpg?v=1520712301",
+    src: "https://cdn.shopify.com/s/files/1/1638/9267/products/RU30394-1_1024x1024.jpg?v=1520712301",
     alt: "Tarjeta Madre"
 }
 publishDate: "2023-08-11 14:08"

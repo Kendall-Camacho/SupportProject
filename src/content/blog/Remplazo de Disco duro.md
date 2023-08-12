@@ -3,7 +3,7 @@ draft: false
 title: "Remplazo de Disco duro"
 snippet: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
 image: {
-    src: "https://images-na.ssl-images-amazon.com/images/I/71ctLSB%2Bd1L._AC_SX679_.jpg",
+    src: "https://images-na.ssl-images-amazon.com/images/I/71ctLSB%2Bd1L._AC_SL1500_.jpg",
     alt: "Disco Duro"
 }
 publishDate: "2023-08-11 13:31"

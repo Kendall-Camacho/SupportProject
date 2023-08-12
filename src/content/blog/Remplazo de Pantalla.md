@@ -3,7 +3,7 @@ draft: false
 title: "Remplazo de Pantalla"
 snippet: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
 image: {
-    src: "https://http2.mlstatic.com/pantalla-156-slim-toshiba-satellite-pro-r50-b-D_NQ_NP_185711-MLM20620287396_032016-F.jpg",
+    src: "https://www.pantallasrotas.com/2485-large_default/pantalla-toshiba-satellite-l50-a-15f.jpg",
     alt: "Pantalla"
 }
 publishDate: "2023-08-11 14:00"
