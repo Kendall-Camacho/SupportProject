@@ -5,24 +5,36 @@ import Dropdown from "./dropdown.astro";
 import { Astronav, MenuItems, MenuIcon } from "astro-navbar";
 
 const menuitems = [
+  // {
+  //   title: "Features",
+  //   path: "#",
+  //   children: [
+  //     { title: "Action", path: "/" },
+  //     { title: "Another action", path: "#" },
+  //     { title: "Dropdown Submenu", path: "#" },
+  //     { title: "404 Page", path: "/404" },
+  //   ],
+  // },
   {
-    title: "Features",
-    path: "#",
-    children: [
-      { title: "Action", path: "/" },
-      { title: "Another action", path: "#" },
-      { title: "Dropdown Submenu", path: "#" },
-      { title: "404 Page", path: "/404" },
-    ],
+    title: "Inicio",
+    path: "/#",
+  },
+  {
+    title: "Descripción",
+    path: "/#description",
+  },
+  {
+    title: "Blog",
+    path: "/blog",
   },
   {
     title: "About",
     path: "/about",
   },
   {
-    title: "Blog",
-    path: "/blog",
-  },
+    title: "Contacto",
+    path: "/#contact",
+  }
 ];
 ---
 
@@ -71,11 +83,11 @@ const menuitems = [
         </div>
       </MenuItems>
     </Astronav>
-    <div>
+    <!-- <div>
       <div class="hidden lg:flex items-center gap-4">
         <a href="#">Log in</a>
         <Link href="#" size="md">Sign up</Link>
       </div>
-    </div>
+    </div> -->
   </header>
 </Container>
