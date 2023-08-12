@@ -28,7 +28,9 @@
   "vite": {
     "build": {
       "rollupOptions": {
-        "external": ["assets/*"]
+        "external": [
+          "assets/*"
+        ]
       }
     }
   }
