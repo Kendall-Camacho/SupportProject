@@ -28,7 +28,7 @@
   "vite": {
     "build": {
       "rollupOptions": {
-        "external": ["assets/toshiba.png"]
+        "external": ["assets/*"]
       }
     }
   }
