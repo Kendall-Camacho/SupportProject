@@ -2,20 +2,20 @@
 import { Picture } from "@astrojs/image/components";
 import Link from "@components/ui/link.astro";
 import { Icon } from "astro-icon";
-// import toshiba from "assets/toshiba.png";
+import toshiba from "assets/toshiba.png";
 ---
 
 <main
   class="grid lg:grid-cols-2 place-items-center pt-16 pb-8 md:pt-12 md:pb-24">
   <div class="py-6 md:order-1 hidden md:block">
-    <!-- <Picture
+    <Picture
       src={toshiba}
       alt="Toshiba Image"
       widths={[200, 400, 600]}
       aspectRatio="4:3"
       sizes="(max-width: 800px) 100vw, 620px"
       format="png"  
-    /> -->
+    />
   </div>
   <div>
     <h1
