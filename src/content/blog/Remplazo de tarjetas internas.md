@@ -3,7 +3,7 @@ draft: false
 title: "Remplazo de tarjetas internas"
 snippet: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
 image: {
-    src: "https://th.bing.com/th/id/R.f2f407849bf2c287e81a91bb5df8bea9?rik=ePpyXSoMw7hmgA&riu=http%3a%2f%2fmyfpschool.com%2fwp-content%2fuploads%2f2013%2f10%2fgrafica4.png&ehk=B3kKF234qjO%2bCm3gXpr7j72IClSw7gqLz362zZ%2fTfKk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",
+    src: "https://ae01.alicdn.com/kf/HTB1z8JmlpkoBKNjSZFEq6zrEVXa9/Laptop-Motherboard-A5A003821010-For-Toshiba-For-Satellite-Pro-R50-R50-B-FALESY1-DDR3L-i3-4005U-Integration.jpg",
     alt: "Tarjetas internas"
 }
 publishDate: "2023-08-11 14:22"

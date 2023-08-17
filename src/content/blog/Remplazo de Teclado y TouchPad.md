@@ -3,7 +3,7 @@ draft: false
 title: "Remplazo de Teclado y TouchPad"
 snippet: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
 image: {
-    src: "https://th.bing.com/th/id/R.2adb0672c7ab30159f9f6df6dddf0fad?rik=LYk8sa9gDR5TTA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-8r20gpuxUVA%2fUx8Vpke8C1I%2fAAAAAAAAH14%2fTvyL1CqFbiE%2fs1600%2fc50_3.jpg&ehk=b4kJE5Ho%2bod8IdFbI8gmQMTKIMt%2fYsRZYeRDhaZg1Js%3d&risl=&pid=ImgRaw&r=0",
+    src: "https://i.ebayimg.com/thumbs/images/g/HH4AAOSwE5JkuVTv/s-l640.jpg",
     alt: "Teclado y TouchPad"
 }
 publishDate: "2023-08-11 13:38"
